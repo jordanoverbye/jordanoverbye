@@ -1,4 +1,4 @@
-### Hello 👋 I'm a Software Engineer at Thinkmill who enjoys working with React, Node and GraphQL.
+### Software Engineer at Thinkmill who enjoys working with React, Node and GraphQL.
 
 📫 jordanoverbye@gmail.com
 
