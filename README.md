@@ -1,6 +1,4 @@
-### Software Engineer at Thinkmill 
-
-TS / React / Node / GraphQL
+### Engineer @thinkmill
 
 <!--
 **jordanoverbye/jordanoverbye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
