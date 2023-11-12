@@ -1,4 +1,4 @@
-### Engineer @Thinkmill
+### Senior front-end engineer @Thinkmill
 
 <!--
 **jordanoverbye/jordanoverbye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
