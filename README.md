@@ -1,4 +1,4 @@
-### Senior front-end engineer @Thinkmill
+### Senior front-end engineer @Atlassian
 
 <!--
 **jordanoverbye/jordanoverbye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
